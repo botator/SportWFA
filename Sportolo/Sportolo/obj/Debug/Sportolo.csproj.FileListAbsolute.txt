@@ -1,0 +1,10 @@
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\bin\Debug\Sportolo.exe.config
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\bin\Debug\Sportolo.exe
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\bin\Debug\Sportolo.pdb
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\obj\Debug\Sportolo.csproj.AssemblyReference.cache
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\obj\Debug\Sportolo.Form1.resources
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\obj\Debug\Sportolo.Properties.Resources.resources
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\obj\Debug\Sportolo.csproj.GenerateResource.cache
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\obj\Debug\Sportolo.csproj.CoreCompileInputs.cache
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\obj\Debug\Sportolo.exe
+C:\Users\bastyai.botond\Desktop\Sportolo\Sportolo\obj\Debug\Sportolo.pdb
